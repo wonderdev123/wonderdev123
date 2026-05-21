@@ -11,19 +11,19 @@ Tenho experiência com desenvolvimento web, programação, criação de conteúd
 
 <p align="left">
 
-<a href="https://github.com/SEUUSERNAME">
+<a href="https://github.com/wonderdev123">
     <img 
         alt="GitHub followers" 
         title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/SEUUSERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/github/followers/wonderdev123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
 </a>
 
-<a href="https://github.com/SEUUSERNAME?tab=repositories&sort=stargazers">
+<a href="https://github.com/wonderdev123?tab=repositories&sort=stargazers">
     <img 
         alt="GitHub stars" 
         title="Total de estrelas" 
-        src="https://custom-icon-badges.demolab.com/github/stars/SEUUSERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/wonderdev123?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
     />
 </a>
 
@@ -132,12 +132,12 @@ Tenho experiência com desenvolvimento web, programação, criação de conteúd
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=wonderdev123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderdev123&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
@@ -147,7 +147,7 @@ Tenho experiência com desenvolvimento web, programação, criação de conteúd
 
 <p align="left">
 
-<a href="https://github.com/SEUUSERNAME">
+<a href="https://github.com/wonderdev123">
 <img 
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
 />
