@@ -1,12 +1,12 @@
-# 👨🏽‍💻 Wanda Manuel
+👨🏽‍💻 Wanda Manuel
 
-**Full Stack Developer | Estudante de Engenharia de Computação - UNILAB**
+Full Stack Developer | Estudante de Engenharia de Computação - UNILAB**
 
 Estudante de Engenharia de Computação na UNILAB, com foco em desenvolvimento Full Stack, engenharia de software e tecnologia.
 
 Tenho experiência com desenvolvimento web, projetos acadêmicos, inteligência artificial, robótica educacional e criação de conteúdo sobre tecnologia e programação.
 
-Busco oportunidade de estágio como Desenvolvedor Full Stack para aplicar minhas habilidades em projetos reais e evoluir profissionalmente.
+Busco oportunidade como Desenvolvedor Full Stack para aplicar minhas habilidades em projetos reais e evoluir profissionalmente.
 
 ---
 
@@ -66,25 +66,7 @@ Busco oportunidade de estágio como Desenvolvedor Full Stack para aplicar minhas
 - Deploy de aplicações web
 - Hospedagem de projetos
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=wonderdev123&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderdev123&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
-</p>
-
----
 
 ## 🌐 Contato
 
@@ -98,21 +80,8 @@ Busco oportunidade de estágio como Desenvolvedor Full Stack para aplicar minhas
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/wonder-dev-62b16213a/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-## 📌 Objetivos
-
-- Estágio em Desenvolvimento Full Stack  
-- Desenvolvimento de APIs REST  
-- Criação de aplicações web modernas  
-- Backend com Java, Node.js e Python  
-- Front-end com React e TypeScript  
-- Evolução em arquitetura de software e cloud  
-
----
