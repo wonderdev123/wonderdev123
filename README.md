@@ -1,6 +1,6 @@
 👨🏽‍💻 Wanda Manuel
 
-Full Stack Developer | Estudante de Engenharia de Computação - UNILAB**
+Full Stack Developer | Estudante de Engenharia de Computação - UNILAB
 
 Estudante de Engenharia de Computação na UNILAB, com foco em desenvolvimento Full Stack, engenharia de software e tecnologia.
 
