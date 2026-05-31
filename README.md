@@ -2,7 +2,7 @@
 
 Full Stack Developer | Estudante de Engenharia de Computação
 
-Estudante de Engenharia de Computação na UNILAB, com foco em desenvolvimento Full Stack, engenharia de software e tecnologia.
+Estudante de Engenharia de Computação , com foco em desenvolvimento Full Stack, engenharia de software e tecnologia.
 
 Tenho experiência com desenvolvimento web, projetos acadêmicos, inteligência artificial, robótica educacional e criação de conteúdo sobre tecnologia e programação.
 
